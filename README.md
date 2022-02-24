@@ -42,3 +42,10 @@
 
 > Implementando uma arquitetura com nn.Module.
 
+* 6:
+
+> Funções de perda para regressão.
+
+> Funções de perda para classificação.
+
+
