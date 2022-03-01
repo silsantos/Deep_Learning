@@ -48,4 +48,24 @@
 
 > Funções de perda para classificação.
 
+* 7:
 
+> Otimização de problemas com PyTorch
+
+* 8:
+
+> Carregamento de dados
+
+* 9:
+
+> Carregamento de dados
+
+> Utilizando nossos próprios dados
+
+* 10: CNN
+
+> Datasets do torchvision e primeiros conceitos de cnn
+
+* 11:
+
+> Convolução 1D
