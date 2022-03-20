@@ -2,6 +2,8 @@
 
 ### 1. Introdução NLP
 
+# PASTA: REDES NEURAIS
+
 ### Redes Neurais com PyTorch
 
 * 1: 
@@ -69,3 +71,56 @@
 * 11:
 
 > Convolução 1D
+
+* 12:
+
+> Convolução 2D
+
+* 13:
+
+> Exemplos de filtros manualmente projetados
+
+> Casamento de padrões complexos
+
+* 14:
+
+> Parâmetros da Convolução
+
+> Controle de resolução da informação
+
+> Construindo uma Conv2d
+
+* 15:
+
+> Pooling: Enumeramos em aula algumas vantagens da subamostragem em redes convolucionais. Em termos de custo computacional, reduzir a dimensionalidade espacial dos mapas de ativação permite uma grande economia de processamento. Por si só essa já é uma vantagem bastante convincente para usar o pooling, pois imagens são dados de altíssima dimensionalidade.
+
+Um dos principais livros de Deep Learning [1] define o Pooling como um "resumo estatístico" das saídas de uma convolução. Isso porque a camada não realiza uma subamostragem aleatória dos mapas de ativação, mas destaca as características mais relevantes de cada vizinhança local (definida pelo campo de visão do pooling).
+
+Um importante efeito disso é que o Pooling torna a representação aproximadamente invariante a pequenas translações. Em termos claros, se a imagem de entrada for levemente deslocada no espaço, uma boa parte do mapa de características resultante do pooling não será alterado. 
+
+* 16:
+
+> Camada de Batch Normalization: Normaliza a saída da camada convolucional (antes da ativação linear)
+
+> Implementação de um bloco convolucional em PyTorch
+
+* 17:
+
+> Treinando uma cnn do zero
+
+* 18:
+
+> Fine-tuning
+
+# Pasta KERAS:
+
+* 1: 
+
+> Criação de camadas no Keras;
+
+> Pesos e viés;
+
+> Otimização da rede;
+
+> Transformação inversa dos dados escalonados.
+
