@@ -124,3 +124,27 @@ Um importante efeito disso é que o Pooling torna a representação aproximadame
 
 > Transformação inversa dos dados escalonados.
 
+> Estrutura de dados para previsão;
+
+> Previsão de próximo com um único valor ponto;
+
+> Previsão de próximo ponto com diversos valores.
+
+> Conversão no formato de data;
+
+> O que são redes recorrentes;
+
+> Forma de entrada das redes recorrentes;
+
+> Redes do tipo Long Short Term memory;
+
+> Aplicação da LSTM.
+
+> Otimizador RMSProp;
+
+> Aplicação da LSTM;
+
+> O que é uma Unidade recorrente fechada (GRU);
+
+> Overfitting.
+
